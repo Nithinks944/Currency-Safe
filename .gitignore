@@ -1,0 +1,18 @@
+# the dataset folder, which is too large and has its own license
+data/
+# downloaded dataset archives
+*.zip
+# Kaggle API key, must stay private
+kaggle.json
+# Jupyter's automatic backup folders
+.ipynb_checkpoints/
+# Python cache files
+__pycache__/
+# a virtual environment folder, if you made one
+venv/
+
+# old model trained on an earlier split, not part of the project
+currencysafe_model.keras
+
+# old model trained on an earlier split, not part of the project
+currencysafe_model.keras

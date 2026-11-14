@@ -1,0 +1,8 @@
+tensorflow  # deep learning library: builds, trains, saves and loads the model
+numpy  # numerical arrays
+pandas  # tables (the split and the results)
+scikit-learn  # data split, class weights, metrics and the One-Class SVM
+matplotlib  # plots (learning curves, wrong images)
+pillow>=11.3  # opens images; 11.3 or newer can read AVIF files
+joblib  # saves and loads the scaler and the SVM
+notebook  # runs the Jupyter notebooks
